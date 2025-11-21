@@ -1,3 +1,11 @@
-26859 - Question 7: Real Estate Management System
-Output will be generated when the program is run.
-
+26859
+Entity [ID=1, Created=2024-01-01, Updated=2024-02-20]
+Agency [Name=Prestige Realty Group, Address=321 Property Avenue, Phone=5550345678, Email=info@prestigerealty.com]
+Property [Type=Apartment, Address=123 Oak Street, Size=1200 sq ft, Price=250000.00]
+Client [Name=David Thompson, Email=david.thompson@email.com, Contact=5550456789, Budget=300000.00]
+Viewing [Date=2024-02-20, Time=14:00, Status=Scheduled]
+Contract [Contract Number=CN2024022001, Type=Sale, Date=2024-02-20]
+Commission [Rate=2.5%, Amount=6250.00]
+Payment [Method=Bank Transfer, Date=2024-02-20, Amount=50000.00]
+=== CALCULATED FINAL SALE PRICE ===
+Final Sale Price: 250000.00

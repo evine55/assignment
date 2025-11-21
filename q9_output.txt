@@ -1,3 +1,11 @@
-26859 - Question 9: Airline Ticketing System
-Output will be generated when the program is run.
-
+26859
+Entity [ID=1, Created=2024-01-01, Updated=2024-03-01]
+Airline [Name=Global Airways, Address=789 Aviation Hub, Phone=5550789012, Email=info@globalairways.com]
+Flight [Flight Number=GA1234, Origin=New York, Destination=Los Angeles, Departure=2024-03-15 08:00, Arrival=2024-03-15 11:30]
+Passenger [Name=Robert Wilson, Email=robert.wilson@email.com, Contact=5550890123, Passport Number=P12345678]
+Ticket [Ticket Number=TKT20240301001, Class=Economy, Seat=12A, Price=450.00]
+Baggage [Weight=23 kg, Fee=0.00, Status=Included]
+Payment [Method=Credit Card, Date=2024-03-01, Transaction ID=TXN987654321]
+Booking [Booking Date=2024-03-01, Status=Confirmed]
+=== CALCULATED TOTAL TICKET PRICE ===
+Total Ticket Price: 450.00
