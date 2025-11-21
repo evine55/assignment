@@ -1,9 +1,9 @@
 26859
 Entity [ID=1, Created=2024-01-01, Updated=2024-01-25]
-Company [Name=Tech Solutions Inc., Address=321 Business Park, Phone=5555678901, Email=hr@techsolutions.com]
+Company [Name=Tech Solutions Rwanda, Address=321 Business Park, Kigali, Phone=250788567890, Email=hr@techsolutions.rw]
 Department [Name=IT, Code=IT001]
-Manager [Name=Michael Brown, Email=michael.brown@company.com, Phone=5556789012]
-Employee [Name=Robert Taylor, ID=1001, Designation=Software Developer, Contact=5557890123]
+Manager [Name=Patrick Uwizeye, Email=patrick.uwizeye@company.rw, Phone=250789678901]
+Employee [Name=David Niyonsaba, ID=1001, Designation=Software Developer, Contact=250788789012]
 Attendance [Total Days=22, Present Days=20, Leave Days=2]
 Allowance [Housing=2000.00, Transport=1000.00]
 Deduction [Tax=1500.00, Loan=500.00]

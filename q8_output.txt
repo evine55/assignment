@@ -1,8 +1,8 @@
 26859
 Entity [ID=1, Created=2024-01-01, Updated=2024-02-25]
-Library [Name=Central Public Library, Address=654 Knowledge Boulevard, Phone=5550567890, Email=info@centrallibrary.com]
+Library [Name=Kigali Public Library, Address=654 KG 10 Street, Kigali, Phone=250788056789, Email=info@kigalilibrary.rw]
 Book [Title=Introduction to Java Programming, ISBN=978-0131234567, Author=John Smith, Category=Programming]
-Member [Name=Emily Johnson, Email=emily.johnson@email.com, Contact=5550678901, Member ID=MEM2024001, Membership Type=Student]
+Member [Name=Claire Niyonsenga, Email=claire.niyonsenga@email.rw, Contact=250788067890, Member ID=MEM2024001, Membership Type=Student]
 Borrowing [Borrow Date=2024-02-25, Due Date=2024-03-11, Return Date=null, Status=Borrowed]
 Fine [Rate=0.50 per day, Overdue Days=0, Amount=0.00]
 Reservation [Reservation Date=2024-02-20, Status=Active]

@@ -1,8 +1,8 @@
 26859
 Entity [ID=1, Created=2024-01-01, Updated=2024-01-15]
-Hotel [Name=Grand Plaza Hotel, Address=123 Main Street, Phone=1234567890, Email=info@grandplaza.com]
+Hotel [Name=Kigali Grand Hotel, Address=123 KN 3 Avenue, Kigali, Phone=250788123456, Email=info@kigaligrand.rw]
 Room [Number=101, Type=Deluxe, Price/Night=150.00]
-Customer [Name=John Smith, Email=john.smith@email.com, Contact=9876543210]
+Customer [Name=Jean-Pierre Niyitegeka, Email=jp.niyitegeka@email.rw, Contact=250788987654]
 Booking [Booking Date=2024-01-20, Check-in=2024-02-01, Check-out=2024-02-05]
 Service [Name=Room Service, Cost=50.00]
 Payment [Method=Credit Card, Date=2024-01-20]

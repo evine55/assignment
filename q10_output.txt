@@ -1,12 +1,12 @@
 26859
 Entity [ID=1, Created=2024-01-01, Updated=2024-03-05]
-Store [Name=TechWorld Online Store, Address=987 Digital Plaza, Phone=5550901234, Email=info@techworld.com]
+Store [Name=TechWorld Rwanda, Address=987 KG 11 Street, Kigali, Phone=250788090123, Email=info@techworld.rw]
 Product [Name=Laptop, Product Code=PROD001234, Category=Electronics, Price=899.99, Stock=50]
-Customer [Name=Lisa Anderson, Email=lisa.anderson@email.com, Contact=5550012345, Address=456 Customer Street]
+Customer [Name=Chantal Uwizeyimana, Email=chantal.uwizeyimana@email.rw, Contact=250788001234, Address=456 KG 8 Avenue, Kigali]
 Order [Order Number=ORD20240305001, Order Date=2024-03-05, Quantity=1, Status=Processing]
 Cart [Items=1, Subtotal=899.99]
 Shipping [Method=Express Delivery, Cost=25.00, Estimated Days=2]
-Payment [Method=PayPal, Date=2024-03-05, Transaction ID=TXN20240305001]
+Payment [Method=Mobile Money, Date=2024-03-05, Transaction ID=TXN20240305001]
 Review [Rating=5, Comments=Great product and fast shipping]
 === CALCULATED TOTAL ORDER AMOUNT ===
 Total Order Amount: 924.99

@@ -1,8 +1,8 @@
 26859
 Entity [ID=1, Created=2024-01-01, Updated=2024-02-15]
-Bank [Name=Metropolitan National Bank, Address=456 Finance Street, Phone=5550123456, Email=info@metrobank.com]
+Bank [Name=Bank of Kigali, Address=456 KN 4 Avenue, Kigali, Phone=250788012345, Email=info@bk.rw]
 Account [Account Number=ACC0012345678, Type=Savings, Balance=15000.00]
-Customer [Name=Jennifer Martinez, Email=jennifer.martinez@email.com, Contact=5550234567, Date of Birth=1990-05-15]
+Customer [Name=Marie Uwamahoro, Email=marie.uwamahoro@email.rw, Contact=250788023456, Date of Birth=1990-05-15]
 Transaction [Type=Deposit, Amount=2500.00, Date=2024-02-15, Description=Salary Deposit]
 Loan [Loan Number=LN987654321, Amount=50000.00, Interest Rate=5.5%, Duration=5 years]
 Interest [Rate=3.5%, Period=Monthly, Amount=43.75]
