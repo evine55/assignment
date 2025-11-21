@@ -1,0 +1,12 @@
+26859
+Entity [ID=1, Created=2024-01-01, Updated=2024-01-20]
+School [Name=Springfield High School, Address=789 Education Lane, Phone=5552345678, Email=info@springfield.edu]
+Department [Name=Science, Code=SCI01]
+Teacher [Name=Mr. James Anderson, Subject=Mathematics, Email=james.anderson@school.com, Phone=5553456789]
+Student [Name=Emma Wilson, Roll Number=101, Grade=A, Contact=5554567890]
+Course [Name=Advanced Mathematics, Code=MATH301, Credit Hours=4]
+Exam [Name=Mid-Term Examination, Max Marks=100.0, Date=2024-02-15]
+Result [Obtained Marks=85.0, Remarks=Excellent performance]
+Fee [Tuition Fee=5000.00, Exam Fee=500.00, Total Fee=5500.00]
+=== CALCULATED AVERAGE MARKS ===
+Average Marks: 85.00%

@@ -1,0 +1,12 @@
+26859
+Entity [ID=1, Created=2024-01-01, Updated=2024-01-15]
+Hotel [Name=Grand Plaza Hotel, Address=123 Main Street, Phone=1234567890, Email=info@grandplaza.com]
+Room [Number=101, Type=Deluxe, Price/Night=150.00]
+Customer [Name=John Smith, Email=john.smith@email.com, Contact=9876543210]
+Booking [Booking Date=2024-01-20, Check-in=2024-02-01, Check-out=2024-02-05]
+Service [Name=Room Service, Cost=50.00]
+Payment [Method=Credit Card, Date=2024-01-20]
+Bill [Room Charge=600.00, Service Charge=200.00, Total Bill=800.00]
+Feedback [Rating=5, Comments=Excellent service and facilities]
+=== FINAL COMPUTED BILL ===
+Generated Bill: 800.00
